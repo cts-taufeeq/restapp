@@ -1,0 +1,3 @@
+# Created at 2022-08-30T20:09:23.791
+OpenJDK 64-Bit Server VM warning: INFO: os::commit_memory(0x0000000704400000, 264241152, 0) failed; error='The paging file is too small for this operation to complete' (DOS error/errno=1455)
+
